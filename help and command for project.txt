@@ -1,0 +1,4 @@
+<-----------Github respository help to upload command -------->
+
+git remote add origin git@github.com:parmeshwar12/digital-blog.git
+git push -u origin master
